@@ -1,26 +1,39 @@
 
 18 Island
+1 Inkmoth Nexus
 1 Oboro, Palace in the Clouds
-1 Mikokoro, Center of the Sea
 1 Minamo, School at Water's Edge
 1 Gemstone Caverns
-2 Radiant Fountain
 
-4 Cryptic Command
+4 Serum Visions
+4 Opt
+3 Gigadrowse
+3 Spreading Seas
+2 Howling Mine
+2 Exhaustion
 4 Dictate of Kruphix
-1 Elixir of Immortality
-3 Exhaustion
-4 Gigadrowse
-3 Howling Mine
-3 Part the Waterveil
-4 Spreading Seas
+4 Cryptic Command
+4 Time Warp
 4 Temporal Mastery
 1 Temporal Trespass
-4 Time Warp
-1 Walk the Aeons
+3 Part the Waterveil
 
 NOTES:
 @ GP likely to see Ghost Quarter (target land) + Field of Ruin (target non-basic),
   so we should cut Ororo + Mikokoro + Minamo.. I wouldn't cut Gemstone unless I really felt like the 
   above 2 land hate cards are going to be BIG, because Gemstone's upside if you lost game 1 is SO high,
   especially against any kind of control!!!
+- I felt like Radiant flames was terrible when I needed Gigadrowse to act like an expensive Cryptic
+  to tap down Dredge or Living End creatures... I feel like removing these and putting in basics makes
+  Gigadrowse a more powerful card against more opponents than the upside of Radiant Fountains against
+  only a few select decks like Burn.
+- Inkmoth Nexus seems great... it will give me another win con that has the same weaknesses as any other
+  land that I give the counter to. After testing I might put a 2nd, but havent gotten to play with it yet.
+- I hated Elixir of Immortality, it was never impactful and out of ALL of my games I never decked myself,
+  got close plenty of times but never needed the shuffle.
+- I liked Walk the Aeons, casted the buyback once which was nice, but I think having a 3rd copy of my win
+  con over the 1 copy of Walk the Aeons is better.
+
+*** I would like to run 23 lands. I would also like to run a 3rd Exhaustion... after testing lets see
+***   what I can cut.. thinking 1 spreading seas + 1 howling mine -> let's keep this in mind.
+
