@@ -1,7 +1,8 @@
 
-19 Island
+18 Island
 1 Oboro, Palace in the Clouds
 1 Mikokoro, Center of the Sea
+1 Minamo, School at Water's Edge
 1 Gemstone Caverns
 2 Radiant Fountain
 
@@ -18,3 +19,8 @@
 4 Time Warp
 1 Walk the Aeons
 
+NOTES:
+@ GP likely to see Ghost Quarter (target land) + Field of Ruin (target non-basic),
+  so we should cut Ororo + Mikokoro + Minamo.. I wouldn't cut Gemstone unless I really felt like the 
+  above 2 land hate cards are going to be BIG, because Gemstone's upside if you lost game 1 is SO high,
+  especially against any kind of control!!!
